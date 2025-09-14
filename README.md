@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h1 align="center">GIOVANNI ZAMPETTI</h1>
+
 <!--
 **gyozamp/gyozamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
