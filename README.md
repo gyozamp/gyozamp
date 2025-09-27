@@ -2,6 +2,8 @@
 
 <h3>Software Engineer / @Unina </h3>
 
+<h4>I am currently a Master's student in Computer Science at the University of Naples "Federico II".</h4>
+
 <!--
 **gyozamp/gyozamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
