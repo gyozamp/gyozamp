@@ -1,6 +1,6 @@
 <h1 align="center">GIOVANNI ZAMPETTI</h1>
 
-<h3>Software Engineer / @Unina </h3>
+<h3>Software Engineer / Machine Learning Engineer / @Unina </h3>
 
 <h4>I am Master's student in Computer Science at the University of Naples "Federico II".</h4>
 
