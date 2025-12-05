@@ -2,19 +2,10 @@
 
 <h3>Software Engineer / @Unina </h3>
 
-<h4>I am Master's student in Computer Science at the University of Naples "Federico II".</h4>
-
-<!--
-**gyozamp/gyozamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 **Education:** MSc student in Computer Science @ **University of Naples Federico II**.
+- 🔭 **I’m currently working on:** An AI-powered **Crop Recommendation Dashboard**.
+- 🌱 **I’m currently learning:** Data Analysis and Machine Learning.
+- 💼 **Open to:** Software Engineering Internships & Junior Roles.
+- 🔗 **Connect:** with me in [**LinkedIn**](https://www.linkedin.com/in/giovanni-zampetti)
+- ⚡ **Fun fact:** I am passionate about Theater, Cinema, and Basketball! 🎬🏀
