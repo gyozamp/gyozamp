@@ -2,7 +2,6 @@
 
 <h3>Software Engineer / @Unina </h3>
 
-### 🚀 About Me
 - 🎓 **Education:** MSc student in Computer Science @ **University of Naples Federico II**.
 - 🔭 **I’m currently working on:** An AI-powered **Crop Recommendation Dashboard**.
 - 🌱 **I’m currently learning:** Data Analysis and Machine Learning.
